@@ -5,6 +5,12 @@
 def test_3():
     pass
 
+
+=======
+def test_not_main():
+    pass
+
+
 def test_main():
     pass
 
