@@ -6,6 +6,7 @@ def test_3():
     pass
 
 
+
 def test_not_main():
     pass
 
@@ -22,5 +23,7 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
     print('Hello!')
+    print("Bye!")
+
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
